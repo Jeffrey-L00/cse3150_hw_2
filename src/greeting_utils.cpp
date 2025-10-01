@@ -1,9 +1,6 @@
 #include "greeting_utils.h"
 #include <string>
-
-
-
-
+#include <cstring>
 
 
 std::string GreetingUtils::create_message(const std::string& name) {
